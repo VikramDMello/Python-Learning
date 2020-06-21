@@ -2,7 +2,7 @@
 
 This is my first foray into Python.  
 
-## Objectives:
+## Objectives
 
 Besides:
 
@@ -21,7 +21,8 @@ eventually moving towards:
 
 7. **NLP** modeling and textual analysis.
 
-## Current Tools:
+## Current Tools
+
 1. Tableau.
 2. Stata.
 3. JMP Pro.
