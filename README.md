@@ -24,3 +24,5 @@ eventually moving towards:
 ## Current Tools:
 1. Tableau.
 2. Stata.
+3. JMP Pro.
+4. SPSS (deprecated).
