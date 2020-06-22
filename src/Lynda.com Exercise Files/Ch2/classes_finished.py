@@ -14,13 +14,13 @@ class anotherClass(myClass):
     print ("anotherClass method2")
     
   def method1(self):
-    myClass.method1(self);
+    myClass.method1(self)
     print ("anotherClass method1")
       
 def main():
-  c = myClass()
-  c.method1()
-  c.method2("This is a string")
+  #c = myClass()
+  myClass().method1()
+  myClass().method2("This is a string")
   c2 = anotherClass()
   c2.method1()
   
