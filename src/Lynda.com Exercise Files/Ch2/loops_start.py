@@ -3,10 +3,11 @@
 #
 
 def main():
+  print("\n")
   x = 0
 
   # define a while loop
-  # while (x<5):
+  # while (x<5) or (x<6):
   #   print (x)
   #   x = x+1
 
@@ -19,22 +20,25 @@ def main():
 
   # use a for loop over a collection
   # days=["Mon","Tue","Wed","Thu","Fri","Sat","Sun"]
-  # for day in days:
-  #   print (day)
+  # for d in days:
+  #   if len(d) == 2:
+  #     print (d)
 
    
  
   # use the break and continue statements
   # for x in range(1,25):
-  #   if (x % 2 != 0):
+  #   if (x % 2 != 0): # If "modulo of x and 2 not zero"; OR "remainder of x divided by 2 not zero"
   #     continue
   #   print (x)
 
 
   #using the enumerate() function to get index 
   days=["Mon","Tue","Wed","Thu","Fri","Sat","Sun"]
-  for i,day in enumerate(days, 1):
-    print (i, day)
+  for counter,day in enumerate(days, 0):
+    print (counter, day)
+
+  print("\n")
 
 
 

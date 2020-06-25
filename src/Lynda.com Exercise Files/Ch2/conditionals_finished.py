@@ -3,11 +3,14 @@
 #
 
 def main():
-  x, y = 10, 100
+  x, y = 90, 100
   
   # conditional flow uses if, elif, else  
-  if(x < y):
-    st= "x is less than y"
+  if (x < y):
+    if (y - x < 50):
+      st = "x is less than y"
+    elif (y - x >= 50):
+      st = "x is *much* less than y"
   elif (x == y):
     st= "x is same as y"
   else:
@@ -15,8 +18,8 @@ def main():
   print (st)
 
   # conditional statements let you use "a if C else b"
-  st = "x is less than y" if (x < y) else "x is greater than or equal to y"
-  print (st)
+  # st = "x is less than y" if (x < y) else "x is greater than or equal to y"
+  # print (st)
   
   # Python does not have support for higher-order conditionals
   # like "switch-case" in other languages
