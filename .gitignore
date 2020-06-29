@@ -2,3 +2,4 @@ src/.DS_Store
 src/NLP/SNLI Stanford Corpus/multinli_1.0_train.jsonl
 src/NLP/SNLI Stanford Corpus/multinli_1.0_train.txt
 .vscode/launch.json
+src/NLP/Texts
