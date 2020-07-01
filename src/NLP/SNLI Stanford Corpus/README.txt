@@ -24,3 +24,4 @@ Release Notes
   that were collected using the same prompt, as was originally intended, and pairID values are
   simply promptID values with an extra letter indicating the specific field in the prompt that was
   used. If you do not use these fields, this release is equivalent to 0.9.
+
