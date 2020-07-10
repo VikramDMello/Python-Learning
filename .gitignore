@@ -7,3 +7,4 @@ src/NLP/SNLI Stanford Corpus/multinli_1.0_train.txt
 src/NLP/SNLI Stanford Corpus/state_dict_best_devacc__devACC84.370_devppl10.200__epoch_12_model.pt
 src/NLP/SNLI Stanford Corpus/state_dict_best_devacc__devACC96.780__epoch_12_model.pt
 src/NLP/SNLI Stanford Corpus/multinli_1.0_dev_mismatched.csv
+src/NLP/.DS_Store
