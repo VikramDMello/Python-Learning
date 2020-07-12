@@ -1,10 +1,40 @@
-src/.DS_Store
-src/NLP/.DS_Store
-.vscode/launch.json
-src/NLP/Texts/
-src/NLP/SNLI Stanford Corpus/multinli_1.0_train.jsonl
-src/NLP/SNLI Stanford Corpus/multinli_1.0_train.txt
-src/NLP/SNLI Stanford Corpus/state_dict_best_devacc__devACC84.370_devppl10.200__epoch_12_model.pt
-src/NLP/SNLI Stanford Corpus/state_dict_best_devacc__devACC96.780__epoch_12_model.pt
-src/NLP/SNLI Stanford Corpus/multinli_1.0_dev_mismatched.csv
-src/NLP/.DS_Store
+src/NLP/Corpora/
+src/NLP/Corpora/*
+
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
