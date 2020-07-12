@@ -38,3 +38,4 @@ src/NLP/Corpora/*
 .Trashes
 ehthumbs.db
 Thumbs.db
+src/NLP/.DS_Store
