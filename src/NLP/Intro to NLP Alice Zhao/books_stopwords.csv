@@ -297,3 +297,13 @@ whence
 top
 whereby
 namely
+punctuation_comma
+punctuation_colon
+punctuation_semicolon
+punctuation_doublequote
+punctuation_question
+punctuation_exclamation
+punctuation_dash
+punctuation_ellipsis
+punctuation_period
+email_address
