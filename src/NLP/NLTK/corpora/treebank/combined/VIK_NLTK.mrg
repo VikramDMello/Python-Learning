@@ -1,0 +1,8 @@
+(S 
+    (NP-SBJ (NP (DT The) (NN dog)))
+    (VP (VBD chased)
+        (NP-OBJ
+            (NP (DT the) (NN cat))
+        )
+    )
+)
